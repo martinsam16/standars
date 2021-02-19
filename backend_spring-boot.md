@@ -190,7 +190,7 @@ autos/color/<color>
 
 * Manejar [códigos de estado HTTP](https://www.talend.com/http-status-map/).
 
-  ![HTTPStatusMap.png](.\img\HTTPStatusMap.png)
+  ![HTTPStatusMap.png](./img/HTTPStatusMap.png)
 
 3. Documentación
 
