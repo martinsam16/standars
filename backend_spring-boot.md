@@ -52,8 +52,8 @@ Componente*Config src/main/resources/application.yml |
     +---main
     |   +---java
     |   |   \---com
-    |   |       \---vallegrande
-    |   |           \---sadeb
+    |   |       \---organizationName
+    |   |           \---projectName
     |   |               |   
     |   |               +---common
     |   |               |   +---exception
@@ -187,7 +187,10 @@ autos/color/<color>
 ```
 
 * Proveer filtrado, ordenación, selección de campos y paginación para colecciones.
+
 * Manejar [códigos de estado HTTP](https://www.talend.com/http-status-map/).
+
+  ![HTTPStatusMap.png](.\img\HTTPStatusMap.png)
 
 3. Documentación
 
